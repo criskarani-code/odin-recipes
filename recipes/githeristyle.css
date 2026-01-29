@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(197, 114, 66);
+    text-align: center;
+}
+
+.caption {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+div {
+    color: rgb(151, 98, 98);
+}
+
+h3 {
+ color: rgb(197, 114, 66);
+}
+
+.serving {
+    color: rgb(151, 98, 98);
+}
+
+.futa {
+    color: rgb(197, 114, 66);
+    font-size: x-large;
+    text-align: center;
+}
+
+.bground {
+    background-color: rgb(61, 56, 44);
+}
